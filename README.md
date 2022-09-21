@@ -1,7 +1,7 @@
 # Door Game
 
 ## Details
-A simple game where users try and find the matching image behind 3 doors. This project uses <a href="https://tailwindcss.com" target="_blank">Tailwind CSS</a> and <a href="https://laravel.com" target="_blank">Laravel</a>.
+A simple pick a random door out of 3 to win a prize game. This project uses <a href="https://tailwindcss.com" target="_blank">Tailwind CSS</a> and <a href="https://laravel.com" target="_blank">Laravel</a>.
 
 ## Installation
 ```
